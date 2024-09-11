@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2c3884e-692e-483a-867a-dcaac4c5e2e5" name="Changes" comment="Template codes" />
+    <list default="true" id="d2c3884e-692e-483a-867a-dcaac4c5e2e5" name="Changes" comment="Template codes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demojavafx/MyTreasure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demojavafx/MyTreasure.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +59,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "updateView",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/kevindemo/demoJavaFX/src/main/java/com/example/demojavafx",
+    "last_opened_file_path": "C:/Users/kli1/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Scene Builder/SceneBuilder.lnk",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -65,10 +68,15 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.41674334",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "preferences.JavaFX",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\kevindemo\demoJavaFX\src\main\java\com\example\demojavafx" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
@@ -99,7 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725939977961</updated>
       <workItem from="1725939979176" duration="2331000" />
-      <workItem from="1725977923747" duration="6231000" />
+      <workItem from="1725977923747" duration="8394000" />
     </task>
     <task id="LOCAL-00001" summary="Template codes">
       <option name="closed" value="true" />
@@ -130,5 +138,9 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Template codes" />
     <option name="LAST_COMMIT_MESSAGE" value="Template codes" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

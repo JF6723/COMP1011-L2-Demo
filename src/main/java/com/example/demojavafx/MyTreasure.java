@@ -4,6 +4,7 @@ public class MyTreasure {
     private String name;
     private String location;
     private String imageUrl;
+    private String Comment;
 
     public String getName() {
         return name;
@@ -36,5 +37,13 @@ public class MyTreasure {
     public String toString()
     {
         return "Name:" +name + "; Location:" + location ;
+    }
+
+    public String getComment() {
+        return Comment;
+    }
+
+    public void setComment(String comment) {
+        Comment = comment;
     }
 }
