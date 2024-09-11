@@ -41,7 +41,7 @@ public class CreatTreasureController implements Initializable {
 
     @Override
     public void initialize(URL location, ResourceBundle resources) {
-        labelTreasure.setVisible(false);
+        //labelTreasure.setVisible(false);
         List<String> locations = Arrays.asList("Garage", "Shed", "Basement");
         comLocations.getItems().addAll(locations );
     }
