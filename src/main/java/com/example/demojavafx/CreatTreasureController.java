@@ -27,7 +27,12 @@ public class CreatTreasureController {
 
 
     public void CreateTreasure(javafx.event.ActionEvent actionEvent) {
-        labelTreasure.setText("Created Treasure");
+
+        MyTreasure myTreasure = new MyTreasure();
+        myTreasure.setName(txtName.getText());
+        myTreasure.setLocation(txtLocation.getText());
+        myTreasure.setComment(txtComment.getText());
+        labelTreasure.setText(myTreasure.toString());
 
     }
 }
