@@ -1,14 +1,17 @@
 package com.example.demojavafx;
 
 import javafx.fxml.FXML;
+import javafx.fxml.Initializable;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
 
 import java.awt.event.ActionEvent;
+import java.net.URL;
+import java.util.ResourceBundle;
 
-public class CreatTreasureController {
+public class CreatTreasureController implements Initializable {
 
     @FXML
     private Button btnSubmit;
@@ -34,5 +37,10 @@ public class CreatTreasureController {
         myTreasure.setComment(txtComment.getText());
         labelTreasure.setText(myTreasure.toString());
 
+    }
+
+    @Override
+    public void initialize(URL location, ResourceBundle resources) {
+        labelTreasure.setVisible(false);
     }
 }
