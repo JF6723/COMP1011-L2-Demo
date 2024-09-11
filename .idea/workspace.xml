@@ -5,13 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2c3884e-692e-483a-867a-dcaac4c5e2e5" name="Changes" comment="Template codes">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demojavafx/CreatTreasureController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/demojavafx/creat-treasure-view.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demojavafx/MyTreasure.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demojavafx/MyTreasure.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/demojavafx/treasureList-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/demojavafx/treasureList-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -65,10 +75,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.41674334",
-    "settings.editor.selected.configurable": "preferences.JavaFX",
+    "settings.editor.selected.configurable": "configurable.group.build",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -107,7 +117,9 @@
       <option name="presentableId" value="Default" />
       <updated>1725939977961</updated>
       <workItem from="1725939979176" duration="2331000" />
-      <workItem from="1725977923747" duration="8394000" />
+      <workItem from="1725977923747" duration="9001000" />
+      <workItem from="1726069650176" duration="742000" />
+      <workItem from="1726070548533" duration="2277000" />
     </task>
     <task id="LOCAL-00001" summary="Template codes">
       <option name="closed" value="true" />
