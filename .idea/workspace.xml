@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2c3884e-692e-483a-867a-dcaac4c5e2e5" name="Changes" comment="Template codes">
+    <list default="true" id="d2c3884e-692e-483a-867a-dcaac4c5e2e5" name="Changes" comment="starting the new view">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demojavafx/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demojavafx/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demojavafx/CreatTreasureController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demojavafx/CreatTreasureController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/demojavafx/creat-treasure-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/demojavafx/creat-treasure-view.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +119,7 @@
       <workItem from="1725939979176" duration="2331000" />
       <workItem from="1725977923747" duration="9001000" />
       <workItem from="1726069650176" duration="742000" />
-      <workItem from="1726070548533" duration="3162000" />
+      <workItem from="1726070548533" duration="3494000" />
     </task>
     <task id="LOCAL-00001" summary="Template codes">
       <option name="closed" value="true" />
@@ -128,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725983002880</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="starting the new view">
+      <option name="closed" value="true" />
+      <created>1726087094989</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726087094989</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,7 +157,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Template codes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Template codes" />
+    <MESSAGE value="starting the new view" />
+    <option name="LAST_COMMIT_MESSAGE" value="starting the new view" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

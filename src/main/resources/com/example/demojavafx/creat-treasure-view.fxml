@@ -43,7 +43,7 @@
                      </children>
                   </GridPane>
                   <Label fx:id="labelTreasure" text="Label" />
-                  <Button fx:id="btnSubmit" mnemonicParsing="false" text="Submit" />
+                  <Button fx:id="btnSubmit" mnemonicParsing="false" onAction="#CreateTreasure" text="Submit" />
                </children>
             </VBox>
          </children>
