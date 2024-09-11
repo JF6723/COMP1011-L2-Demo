@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2c3884e-692e-483a-867a-dcaac4c5e2e5" name="Changes" comment="Template codes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demojavafx/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demojavafx/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demojavafx/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demojavafx/TreasureListController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/demojavafx/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/demojavafx/treasureList-view.fxml" afterDir="false" />
-    </list>
+    <list default="true" id="d2c3884e-692e-483a-867a-dcaac4c5e2e5" name="Changes" comment="Template codes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,6 +56,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "updateView",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/kevindemo/demoJavaFX/src/main/java/com/example/demojavafx",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -103,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1725939977961</updated>
       <workItem from="1725939979176" duration="2331000" />
-      <workItem from="1725977923747" duration="5921000" />
+      <workItem from="1725977923747" duration="6231000" />
     </task>
     <task id="LOCAL-00001" summary="Template codes">
       <option name="closed" value="true" />
